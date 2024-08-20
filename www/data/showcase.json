@@ -1,5 +1,10 @@
 [
   {
+    "title": "Tool List Ai",
+    "link": "https://toollist.ai/",
+    "image": "toollistai"
+  },
+  {
     "title": "JSR",
     "link": "https://jsr.io/",
     "github": "jsr-io/jsr",
@@ -410,4 +415,5 @@
     "link": "https://2coffee.dev/",
     "image": "hicoffee"
   }
+  
 ]
